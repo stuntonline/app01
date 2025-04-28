@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags-->
+  <!-- Title-->
+  <title>Kalkulator Stunting Online</title>
+  <!-- Favicon-->
+  <link rel="icon" href="/img/core-img/favicon.ico">
+  <!-- Stylesheet-->
+  <link rel="stylesheet" href="/css/style.css">
+  
+</head>
+
+<body>
+  <!-- Preloader-->
+  <div class="preloader" id="preloader">
+    <div class="spinner-grow text-secondary" role="status">
+      <div class="sr-only">Loading...</div>
+    </div>
+  </div>
+
+  <!-- Header Area-->
+  <div class="header-area" id="headerArea">
+    <div class="container h-100 d-flex align-items-center justify-content-between">
+      <!-- Back Button-->
+      <div class="back-button">
+        <a href="#">
+          <i class="lni lni-chevron-left" style="display:none;"></i>
+        </a>
+      </div>
+
+      <!-- Page Title-->
+      <div class="page-heading">
+        <h5 class="mb-0">Kalkulator Stunting Online</h5>
+      </div>
+
+      <!-- Search Form-->
+      <div class="search-form">
+        
+      </div>
+    </div>
+  </div>
+
+
+
+ 
+    <!-- Go Back Button-->
+    <div class="go-home-btn" id="goHomeBtn">
+      <i class="lni lni-arrow-left"></i>
+    </div>
+  </div>
+
+
+  <div class="page" style="background-color: #e6e6e6;"></div>
+  <div class="page-content-wrapper">
+    <!-- Element Wrapper-->
+    <div class="element-wrapper" style="margin-top: -45px !important">
+      <div class="container">
+        <h6 class="mb-3 newsten-title">Silahkan Masukkan Data :</h6>
+      </div>
+
+      <div class="container">
+        <!-- Form-->
+        <form  id="formAntropometri" >
+
+          <div class="form-group">
+            <label for="txtNama">Nama </label>
+            <input class="form-control" id="txtNama" type="text" name="txtNama" placeholder="Inputkan Nama" 
+            required data-parsley-required-message="Nama belum diinputkan !">
+          </div>
+
+          <div class="form-group">
+            <label for="txtGender">Jenis Kelamin</label>
+            <select class="form-control custom-select" id="txtGender" name="txtGender" 
+            required data-parsley-required-message="Jenis kelamin belum diinputkan !">
+
+              <option value="" disabled selected>Pilih Jenis Kelamin</option>
+              <option value="Laki-laki">Laki-laki</option>
+              <option value="Perempuan">Perempuan</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="txtLahir">Tanggal Lahir</label>
+            <input class="form-control" id="txtLahir" type="text" name="txtLahir" placeholder="Inputkan Tanggal Lahir"
+            required data-parsley-required-message="Tanggal lahir belum diinputkan !">
+          </div>
+
+
+          <div class="form-group">
+            
+            <input class="form-control" id="txtUsia" type="text" name="txtUsia" placeholder="Usia Anak"
+             data-parsley-range="[0, 60]" data-parsley-range-message="usia maksimal 60 bulan">
+          </div>
+
+          <div class="form-group">
+            <label for="txtBerat">Berat Badan (Kg)</label>
+            <input class="form-control" id="txtBerat" type="text" name="txtBerat" placeholder="Inputkan Berat Badan"
+            required data-parsley-required-message="Berat badan belum diinputkan !" data-parsley-range="[0, 150]" data-parsley-range-message="Berat maksimal 150 Kg">
+          </div>
+
+          <div class="form-group">
+            <label for="txtTinggi">Tinggi Badan (Cm)</label>
+            <input class="form-control" id="txtTinggi" type="text" name="txtTinggi" placeholder="Inputkan Tinggi Badan"
+            required data-parsley-required-message="Tinggi badan belum diinputkan !" data-parsley-range="[0, 200]" data-parsley-range-message="tinggi maksimal 200 Cm">
+          </div>
+
+
+          <button type="submit" class="btn btn-success btn-lg w-100">Hitung</button>
+
+          
+
+          
+
+        </form>
+
+
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Modal -->
+
+  <div id="mymodal">
+  </div>
+
+
+
+  
+
+  
+
+  <div>
+    <p class="text-center" style="margin-top:-70px;font-size:13px">Copyright @2024 | Author by Pramudita Rahmanto<br>Email : pramuditarahmanto3@gmail.com<br></p>
+    </div>
+    <div class="element-wrapper"></div>
+   <div style="text-align: center;"><p style="margin-top:-70px;font-size:9px"><br>Pengunjung saat ini dari Indonesia:</p>
+    <img style="margin-left:40px;margin-top:-40px" src="https://s01.flagcounter.com/mini/YN8g/bg_FFFFFF/txt_000000/border_FFFFFF/flags_0/" alt="Visitor"></div>
+    <div class="element-wrapper"></div>
+    
+  <!-- Footer Nav -->
+  <div class="footer-nav-area" id="footerNav">
+    
+  </div>
+ 
+
+
+  <!-- All JavaScript Files-->
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/popper.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  <script src="/js/waypoints.min.js"></script>
+  <script src="/js/jquery.easing.min.js"></script>
+  <script src="/js/owl.carousel.min.js"></script>
+  <script src="/js/jquery.animatedheadline.min.js"></script>
+  <script src="/js/jquery.counterup.min.js"></script>
+  <script src="/js/wow.min.js"></script>
+  <script src="/js/date-clock.js"></script>
+  <script src="/js/dark-mode-switch.js"></script>
+  <script src="/js/active.js"></script>
+  <script src="/js/flatpickr.min.js"></script>
+  <script src="/js/parsley.min.js"></script>
+  <script src="/js/dtwho.js"></script>
+  <script src="/js/calc-01.js"></script>
+  <script src="/js/footer.js"></script>
+  
+
+
+</body>
+
+</html>

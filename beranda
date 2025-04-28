@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags-->
+  <!-- Title-->
+  <title>About Kalkulator Stunting Online</title>
+  <!-- Favicon-->
+  <link rel="icon" href="/img/core-img/favicon.ico">
+  <!-- Stylesheet-->
+  <link rel="stylesheet" href="/css/style-out.css">
+  
+</head>
+
+<body>
+  <!-- Preloader-->
+  <div class="preloader" id="preloader">
+    <div class="spinner-grow text-secondary" role="status">
+      <div class="sr-only">Loading...</div>
+    </div>
+  </div>
+
+  <!-- Header Area-->
+  <div class="header-area" id="headerArea">
+    <div class="container h-100 d-flex align-items-center justify-content-between">
+      <!-- Back Button-->
+      <div class="back-button">
+        <a href="/">
+          <i class="lni lni-chevron-left"></i>
+        </a>
+      </div>
+
+      <!-- Page Title-->
+      <div class="page-heading">
+        <h5 class="mb-0">Kalkulator Stunting Online</h5>
+      </div>
+
+      <!-- Search Form-->
+      <div class="search-form">
+        
+      </div>
+    </div>
+  </div>
+
+
+
+ 
+    <!-- Go Back Button-->
+    <div class="go-home-btn" id="goHomeBtn">
+      <i class="lni lni-arrow-left"></i>
+    </div>
+  </div>
+
+
+  <div class="page" style="background-color: #e6e6e6;"></div>
+  <div class="page-content-wrapper">
+    <!-- Element Wrapper-->
+    <div class="element-wrapper" style="padding-top: 1px !important">
+
+
+      <div class="container">
+
+        <!-- App -->
+    <div class="news-today-wrapper">
+      <div class="container">
+        <div class="d-flex align-items-center justify-content-between">
+          <h5 class="mb-3 pl-1 newsten-title">News Today</h5>
+          <p class="mb-3 line-height-1" id="dashboardDate2"></p>
+        </div>
+
+          <!-- Single Link -->
+          <div class="single-hero-slide" style="background-image: url('img/bg-img/5.jpg')">
+            <!-- Background Shape-->
+            <div class="background-shape">
+              <div class="circle2"></div>
+              <div class="circle3"></div>
+            </div>
+            <div class="slide-content h-100 d-flex align-items-end">
+              <div class="container-fluid mb-3">
+                <a class="bookmark-post" href="#"><i class="lni lni-bookmark"></i></a>
+                <a class="post-catagory" href="catagory.html">Health</a>
+                <a class="post-title d-block" href="single.html">Loses over 30kg on keto diet and one meal a day</a>
+                <div class="post-meta d-flex align-items-center">
+                  <a href="#"><i class="mr-1 lni lni-user"></i>Nazrul</a>
+                  <a href="#"><i class="mr-1 lni lni-calendar"></i>21 March</a>
+                  <span><i class="mr-1 lni lni-bar-chart"></i>3 min read</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        
+      </div>
+    </div>
+
+    <!-- End App -->
+
+
+
+
+        <!-- Headline-->
+        <div class="top-catagories-wrapper">
+            <div class="bg-shapes">
+              <div class="shape1"></div>
+              <div class="shape2"></div>
+              <div class="shape3"></div>
+              <div class="shape4"></div>
+              <div class="shape5"></div>
+            </div>
+      
+            <h6 class="mb-3 catagory-title">Top Catagories</h6>
+            <div class="container">
+              <!-- Catagory Slides-->
+              <div class="catagory-slides owl-carousel">
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/8.jpg" alt="">
+                    <h6>Politics</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/3.jpg" alt="">
+                    <h6>Fashion</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/6.jpg" alt="">
+                    <h6>Tech</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/15.jpg" alt="">
+                    <h6>Lifestyle</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/9.jpg" alt="">
+                    <h6>Sports</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/10.jpg" alt="">
+                    <h6>World</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/14.jpg" alt="">
+                    <h6>Environment</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/13.jpg" alt="">
+                    <h6>People</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/12.jpg" alt="">
+                    <h6>Gadgets</h6>
+                  </a>
+                </div>
+      
+                <!-- Catagory Card-->
+                <div class="card catagory-card">
+                  <a href="catagory.html">
+                    <img src="img/bg-img/7.jpg" alt="">
+                    <h6>Health</h6>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- End Headline -->
+
+              <!-- Feed -->
+    <div class="trending-news-wrapper" id="feed">
+
+      </div>
+
+<!-- End Feed -->
+
+      </div>  
+
+
+
+  <!-- Modal -->
+
+  <div id="mymodal">
+  </div>
+
+
+
+  
+
+  
+
+  <!-- Footer Nav -->
+  <div class="footer-nav-area" id="footerNav">
+    
+  </div>
+
+  <!-- All JavaScript Files-->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/waypoints.min.js"></script>
+  <script src="js/jquery.easing.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.animatedheadline.min.js"></script>
+  <script src="js/jquery.counterup.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/date-clock.js"></script>
+  <script src="js/dark-mode-switch.js"></script>
+  <script src="js/active.js"></script>
+  <script src="js/flatpickr.min.js"></script>
+  <script src="js/parsley.min.js"></script>
+  <script src="js/dtwho.js"></script>
+  <script src="js/footer.js"></script>
+  <script src="js/feed.js"></script>
+
+</body>
+
+</html>
